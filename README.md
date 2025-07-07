@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Gloria Moraa Riechi
 
-I am a PhD researcher and computational biologist dedicated to advancing biomedical research through **computational modeling**, **molecular simulation**, and **bioinformatics analysis**. My focus lies in integrating multi-omics data, mathematical modeling, and high-performance computing to uncover insights into complex diseases and therapeutic interventions.
+I am a PhD student majoring in Computational Data Science and Engineering dedicated to advancing biomedical research through **computational modeling**, **molecular simulation**, and **bioinformatics analysis**. My focus lies in integrating multi-omics data, mathematical modeling, and high-performance computing to uncover insights into complex diseases and therapeutic interventions.
 
 ---
 

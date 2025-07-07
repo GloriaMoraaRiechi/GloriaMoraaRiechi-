@@ -11,7 +11,7 @@ I am a PhD researcher and computational biologist dedicated to advancing biomedi
 - **Computational Chemistry**
 - **Machine Learning and Artificial Intelligence** 
 - **Cloud and High-Performance Computing**
-- **Molecular Modeling
+- **Molecular Modeling**
 
 
 ## 🛠️ Tools & Technologies

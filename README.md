@@ -7,14 +7,15 @@ I am a PhD researcher and computational biologist dedicated to advancing biomedi
 ---
 
 ## 🧬 Research Interests
-- **Computational Molecular Biology**  
-- **Machine Learning in Biomedical Research**  
-- **Multi-Omics Data Integration**  
-- **Cloud and High-Performance Computing**  
+- **Computational Molecular Biology**
+- **Computational Chemistry**
+- **Machine Learning and Artificial Intelligence** 
+- **Cloud and High-Performance Computing**
+- **Molecular Modeling
 
 
 ## 🛠️ Tools & Technologies
-`Python` | `R` | `MATLAB` | `PyMC` | `ArviZ` | `AutoDock Vina` | `GROMACS` | `MODELLER`  
+`Python` | `R` | `MATLAB` |`PyMC` | `ArviZ` | `AutoDock Vina` | `GROMACS` | `MODELLER`  
 
 
 ## 📖 Academic Vision
